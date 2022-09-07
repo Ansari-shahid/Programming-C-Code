@@ -2,6 +2,6 @@
 #include<stdio.h>
 main()
 {
- print("Hello World");
- print("FYCS");
+ printf("Hello World");
+ printf("FYCS");
  }
